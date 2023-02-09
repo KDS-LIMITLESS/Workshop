@@ -11,6 +11,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"description": "FreeCodeCamp backend challenge",
+	"description": "freecodecamp backend challenge",
+	"keywords": ["freecodecamp", "backend", "challenge"],
 	"author": "Kamah Somtochukwu"
 }
