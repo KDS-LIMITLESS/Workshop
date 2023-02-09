@@ -14,5 +14,6 @@
 	"description": "freecodecamp backend challenge",
 	"keywords": ["freecodecamp", "backend", "challenge"],
 	"author": "Kamah Somtochukwu",
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.2.0"
 }
